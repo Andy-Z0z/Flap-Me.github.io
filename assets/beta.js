@@ -1,22 +1,22 @@
 const BETA_RELEASES = [
   {
-   name: "29760.B4",
+    name: "29760.B4",
     file: "files/beta/29760.B4-Support-15-10-2025-CanaryChannel-ARMv7.apk",
     channel: "canary"
   },
   {
-    name: "ProjectName Alpha v1.2.0-alpha",
-    file: "files/ProjectName-v1.2.0-alpha.zip",
+    name: "none",
+    file: "none",
     channel: "alpha"
   },
   {
-    name: "ProjectName RTA v1.2.0-rta",
-    file: "files/ProjectName-v1.2.0-rta.zip",
+    name: "none",
+    file: "none",
     channel: "rta"
   },
   {
-    name: "ProjectName RT v1.2.0-rt",
-    file: "files/ProjectName-v1.2.0-rt.zip",
+    name: "none",
+    file: "none",
     channel: "rt"
   }
 ];
