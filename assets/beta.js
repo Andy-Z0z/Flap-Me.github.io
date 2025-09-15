@@ -1,7 +1,7 @@
 const BETA_RELEASES = [
   {
     name: "29760.B4",
-    file: "files/beta/29760.B4-Support-15-10-2025-CanaryChannel-ARMv7.apk",
+    file: "files/beta/29760.B4.zip",
     channel: "canary"
   },
   {
