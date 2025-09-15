@@ -1,12 +1,12 @@
 const BETA_RELEASES = [
   {
-    name: "29760.B4",
+    name: "Build 29760.B4 -- Canary Channel - Support: 15-10-2025 (ARMv7)",
     file: "files/beta/29760.B4.zip",
     channel: "canary"
   },
   {
-    name: "none",
-    file: "none",
+    name: "Build 29761.C4 -- Alpha Channel - Support: 15-11-2025 (ARMv7-ARM64)",
+    file: "files/beta/29761.C4.zip",
     channel: "alpha"
   },
   {
@@ -23,10 +23,10 @@ const BETA_RELEASES = [
 
 const CHANNEL_ORDER = ["canary", "alpha", "rta", "rt"];
 const CHANNEL_NAMES = {
-  canary: "Canary (Самый ранний)",
-  alpha: "Alpha (Ранний)",
-  rta: "RTA (Середина теста)",
-  rt: "RT (Почти релиз)"
+  canary: "Canary (Ранний бета-тест)",
+  alpha: "Alpha (Улучшенные бета-сборки)",
+  rta: "RTA (Середина бета-теста)",
+  rt: "RT (Пред-релизные сборки)"
 };
 
 const betaForm = document.getElementById('beta-form');
