@@ -10,8 +10,8 @@ const BETA_RELEASES = [
     channel: "alpha"
   },
   {
-    name: "none",
-    file: "none",
+    name: "Build 29762.A4 -- RTA Channel - Support: 15-12-2025 (ARMv7-ARM64)",
+    file: "files/beta/29762.A4.zip",
     channel: "rta"
   },
   {
