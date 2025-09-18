@@ -15,8 +15,8 @@ const BETA_RELEASES = [
     channel: "rta"
   },
   {
-    name: "none",
-    file: "none",
+    name: "Build 29763.R4 -- RT Channel - Support: 28-10-2025 (ARMv7-ARM64)",
+    file: "files/beta/29763.R4.zip",
     channel: "rt"
   }
 ];
